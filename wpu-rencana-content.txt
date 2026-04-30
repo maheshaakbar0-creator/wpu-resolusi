@@ -3,6 +3,9 @@ RENCANA KONTEN
 - Struming Patern
 * pola genjreng
 * dasar genjrengan
+ ^ tempo cepat 
 - fingerstyle
-- Pola Petikan 
+- Pola Petikan
+ ^ 5-3-2-1
 - Basic Chord
+- family chord
