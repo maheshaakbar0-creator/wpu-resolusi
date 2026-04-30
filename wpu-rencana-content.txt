@@ -3,6 +3,8 @@ RENCANA KONTEN
 - Struming Patern
 * pola genjreng
 * dasar genjrengan
-- fingerstyle
+ ^ jeda dengan nada 
+ ^ perubahan tempo
 - Pola Petikan 
+ ^ 5-3-2-1
 - Basic Chord
