@@ -4,6 +4,7 @@ RENCANA KONTEN
 * pola genjreng
 * dasar genjrengan
  ^ tempo cepat 
+ ^ tempo kalem
 - fingerstyle
 - Pola Petikan
  ^ 5-3-2-1
